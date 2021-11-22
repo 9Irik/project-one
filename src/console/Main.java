@@ -6,5 +6,6 @@ public class Main {
 	    new Hello();
         System.out.println("How are you?");
         new Bot();
+        System.out.println("My name is Stepan.")
     }
 }
